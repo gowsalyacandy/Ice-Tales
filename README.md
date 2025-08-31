@@ -62,16 +62,3 @@ cd iceTales
 npm install
 3. Run Development Server
 
-npm run dev
-The app will be available at https://ice-tales-iys0ct4t9-mohammodjuwelislams-projects.vercel.app/ .
-
-🔧 Available Scripts
-npm run dev – Start the development server
-
-npm run build – Build the project for production
-
-
-📄 License
-This project is licensed under the MIT License.
-
-Developed with ❤️ by Mohammod Juwel
