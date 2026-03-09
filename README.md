@@ -74,4 +74,4 @@ npm run build – Build the project for production
 📄 License
 This project is licensed under the MIT License.
 
-Developed with ❤️ by Mohammod Juwel
+Developed with ❤️ by GOWSALYA
